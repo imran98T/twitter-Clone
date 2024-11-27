@@ -2,4 +2,4 @@
 
 This Twitter (x.com) clone uses HTML and CSS.
 
-This responsive.
+I didn't make this one responsive
